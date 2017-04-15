@@ -1,0 +1,13 @@
+/Users/Newton/Downloads/TheBlockGame/Temp/bin/Debug/UnityEngine.dll
+/Users/Newton/Downloads/TheBlockGame/Temp/bin/Debug/UnityEditor.dll
+/Users/Newton/Downloads/TheBlockGame/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/Newton/Downloads/TheBlockGame/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/Newton/Downloads/TheBlockGame/Temp/bin/Debug/Mono.Cecil.dll
+/Users/Newton/Downloads/TheBlockGame/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/Newton/Downloads/TheBlockGame/Temp/bin/Debug/Unity.DataContract.dll
+/Users/Newton/Downloads/TheBlockGame/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/Newton/Downloads/TheBlockGame/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/Newton/Downloads/TheBlockGame/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/Newton/Downloads/TheBlockGame/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/Newton/Downloads/TheBlockGame/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/Newton/Downloads/TheBlockGame/Temp/bin/Debug/Mono.Cecil.Mdb.dll
